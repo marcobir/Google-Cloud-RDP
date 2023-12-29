@@ -18,7 +18,7 @@ wget https://dl.google.com/linux/direct/chrome-remote-desktop_current_amd64.deb
 sudo dpkg --install chrome-remote-desktop_current_amd64.deb
 sudo apt install --assume-yes --fix-broken
 sudo apt install nautilus nano -y
-sudo apt -y install firefox
+sudo apt -y install firefox-esr
 sudo apt -y install qbittorrent
 sudo apt install nload
 sudo adduser LOKA chrome-remote-desktop
